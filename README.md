@@ -21,6 +21,7 @@ Same as 2 credit hour students, but you will also need to detect the chapter tit
 1.	You may not hard code these chapter names anywhere in your script.  You must write something that detects them and then can match them up with the chapter numbers.  You will not need to write something that parses roman numerals into digits to do this.  
 2.	You will also need to clean these titles so they can be appropriate file names.  
 	o	Example:  spaces should be replaced with _ (an underscore), and all punctuation removed.
+	
 	o	So your file names should be “Dracula-Chapter-1-Jonathan_Harkers_Journal.txt, …, Dracula-Chapter-7-Cutting_from_The_Dailygraph_8_August.txt.
 
 ## Extra credit (open to all students):
